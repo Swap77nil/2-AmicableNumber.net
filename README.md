@@ -38,3 +38,6 @@ namespace Exercises<br>
         }<br>
     }<br>
 }<br>
+
+OUTPUT:-
+![Screenshot (9)](https://user-images.githubusercontent.com/98145032/152291167-1886bff9-5979-4b57-90df-565a4c5058f4.png)
